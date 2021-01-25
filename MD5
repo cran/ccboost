@@ -1,0 +1,12 @@
+5dad8a0fb32ec2f2580110d5a4e6ba2f *DESCRIPTION
+1a65c5de438a1b626404362c32802804 *NAMESPACE
+6177f3d64c2b147510a9cb5650d42972 *NEWS
+55ebf1898f8cc34bcb4be22f38678aab *R/ccboost.R
+b62cd3110067813cef21a3586115577c *R/dataLS.R
+4f5e1d8b8c21a638ee1d9cc022d9a20d *build/vignette.rds
+f2e5765f246ff23f81b13332220a5a9d *inst/doc/static_ccbst.pdf
+3440a18276f47861a976a4fe50acba54 *inst/doc/static_ccbst.pdf.asis
+1c08ffcd354e8961bed32636acbf325d *man/ccboost.Rd
+fdfbc89e68cba685e43bb628437c015e *man/dataLS.Rd
+1abac8342f92f611f94dd42bac5838bc *vignettes/ccbst.bib
+3440a18276f47861a976a4fe50acba54 *vignettes/static_ccbst.pdf.asis
